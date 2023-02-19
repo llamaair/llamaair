@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @llamaair
-- 👀 I’m interested in computer games programing
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
+- 👋 Hi, I’m Marc13
+- 👀 I’m interested in development of discord bots and game developing
+- 🌱 I’m currently working on a discord bot called Azumi
 - 📫 How to reach me: marcusolsson123@hotmail.com
 
